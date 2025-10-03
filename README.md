@@ -32,12 +32,13 @@ npm install
 
 npm start
 # Application Interface
+<img width="1366" height="768" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/029a3851-b8fb-4e00-8906-6327f75043fe" />
 
 <img width="1366" height="768" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/433702d6-39ac-43e7-be27-d9764c38c529" />
-</br>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c8efd67-0ed4-4b76-ac13-4bedaa8b8856" />
-</br>
+<img width="1366" height="768" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/09f7a7d4-351e-4289-a6e9-4feda2a4eaa6" />
+
 <img width="1366" height="768" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/75502c8c-f302-4d4b-8f67-355543917ce1" />
+
 
 
 
