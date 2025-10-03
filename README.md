@@ -31,4 +31,15 @@ cd cyberwatch-frontend
 npm install
 
 npm start
+# Application Interface
+
+<img width="1366" height="768" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/433702d6-39ac-43e7-be27-d9764c38c529" />
+</br>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c8efd67-0ed4-4b76-ac13-4bedaa8b8856" />
+</br>
+<img width="1366" height="768" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/75502c8c-f302-4d4b-8f67-355543917ce1" />
+
+
+
+
 
